@@ -28,3 +28,6 @@ Projeto de estudo em programação.
     - Protocolo/padrão de transferência de e-mails...
 - Sincronização, estilização e padronização de código
 - Arquitetura MVC - Model View Control
+- PoC - Proof of Concept (Prova de Conceito)
+- MVP - Minimum Viable Product (Produto Viável Mínimo ou Produto Minimamente Viável)
+- 
