@@ -31,3 +31,6 @@ Projeto de estudo em programação.
 - PoC - Proof of Concept (Prova de Conceito)
 - MVP - Minimum Viable Product (Produto Viável Mínimo ou Produto Minimamente Viável)
 - TDD - Test Driven Development (Desenvolvimento Orientado a Testes)
+- Pirâmide de Testes
+  - Unit => Integration (Service) => End-To-End(E2E)
+- API First / Integration focus
