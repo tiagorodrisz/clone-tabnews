@@ -30,4 +30,4 @@ Projeto de estudo em programação.
 - Arquitetura MVC - Model View Control
 - PoC - Proof of Concept (Prova de Conceito)
 - MVP - Minimum Viable Product (Produto Viável Mínimo ou Produto Minimamente Viável)
-- 
+- TDD - Test Driven Development (Desenvolvimento Orientado a Testes)
