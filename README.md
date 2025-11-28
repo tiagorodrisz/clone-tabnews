@@ -34,3 +34,7 @@ Projeto de estudo em programação.
 - Pirâmide de Testes
   - Unit => Integration (Service) => End-To-End(E2E)
 - API First / Integration focus
+- Banco de Dados / Escolha
+  - Relacional (SQL - Structured Query Language - Linguagem de Consulta Estruturada)
+  - Não Relacional (NoSQL - No Structured Query Languagee - Linguagem de Consulta Não Estruturada)
+  - Específicos (Série Temporal, Espacial...)
