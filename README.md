@@ -38,3 +38,4 @@ Projeto de estudo em programação.
   - Relacional (SQL - Structured Query Language - Linguagem de Consulta Estruturada)
   - Não Relacional (NoSQL - No Structured Query Languagee - Linguagem de Consulta Não Estruturada)
   - Específicos (Série Temporal, Espacial...)
+- Docker
