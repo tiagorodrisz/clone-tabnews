@@ -38,4 +38,5 @@ Projeto de estudo em programação.
   - Relacional (SQL - Structured Query Language - Linguagem de Consulta Estruturada)
   - Não Relacional (NoSQL - No Structured Query Languagee - Linguagem de Consulta Não Estruturada)
   - Específicos (Série Temporal, Espacial...)
-- Docker
+- Docker / [Docker Hub](https://hub.docker.com/)
+- [Remoção de dados sensíveis](https://docs.github.com/pt/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
