@@ -31,6 +31,7 @@ Projeto de estudo em programação.
 - PoC - Proof of Concept (Prova de Conceito)
 - MVP - Minimum Viable Product (Produto Viável Mínimo ou Produto Minimamente Viável)
 - TDD - Test Driven Development (Desenvolvimento Orientado a Testes)
+  - Red -> Green -> Refactor
 - Pirâmide de Testes
   - Unit => Integration (Service) => End-To-End(E2E)
 - API First / Integration focus
@@ -40,3 +41,12 @@ Projeto de estudo em programação.
   - Específicos (Série Temporal, Espacial...)
 - Docker / [Docker Hub](https://hub.docker.com/)
 - [Remoção de dados sensíveis](https://docs.github.com/pt/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
+- Working Directory Path (.jsconfig.json com baseUrl)
+- package.json - Scripts de serviço
+- updatedAt: Unix timestamp -> [ISO8601](https://pt.wikipedia.org/wiki/ISO_8601) - [Military Timezone](https://en.wikipedia.org/wiki/Military_time_zone)
+- Template Literal / Template Strings
+- SQL
+  - 1. Query sem parâmetros
+  - 2. Query com parâmetros fixos
+  - 3. Query com parâmetros dinâmicos (SQL Injection)
+  - 4. Query Sanitization/Limpeza de Consulta - [Parameterized query (node-postgres)](https://node-postgres.com/features/queries#parameterized-query)
