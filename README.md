@@ -50,3 +50,6 @@ Projeto de estudo em programação.
   - 2. Query com parâmetros fixos
   - 3. Query com parâmetros dinâmicos (SQL Injection)
   - 4. Query Sanitization/Limpeza de Consulta - [Parameterized query (node-postgres)](https://node-postgres.com/features/queries#parameterized-query)
+- Provedor de Banco de Dados
+  - Neon (gratuito)
+  - DigitalOcean (pago)
