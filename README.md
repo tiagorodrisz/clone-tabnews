@@ -1,5 +1,7 @@
 # clone-tabnews
 
+Domínio em aplicação para estudo: [tidev.shop](https://tidev.shop)
+
 Projeto de estudo em programação.
 
 - Versionamento de Código (Git) + GitHub
@@ -53,3 +55,8 @@ Projeto de estudo em programação.
 - Provedor de Banco de Dados
   - Neon (gratuito)
   - DigitalOcean (pago)
+- Migrations
+  - Sequelize;
+  - ✅ node-pg-migrate;
+    - Foco em postgres
+- Dry Run / Live Run
