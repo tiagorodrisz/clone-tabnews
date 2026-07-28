@@ -31,6 +31,8 @@
     "react-dom": "^19.2.1"
   },
   "devDependencies": {
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-conventional": "^19.2.2",
     "@emnapi/core": "^1.10.0",
     "@emnapi/runtime": "^1.10.0",
     "@eslint/css": "1.0.0",
